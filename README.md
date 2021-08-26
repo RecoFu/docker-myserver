@@ -1,6 +1,6 @@
 
-* [Docker CE]
-* Linux（待測試）
+* [docker-myserver]
+* Linux（待測）
 
 
 
@@ -9,7 +9,7 @@
 * nginx 1.9.2
 * mysql 5.7
 * PHP 7.4
-* 撰寫 2.0
+* compose 2.0
 
 
 ``
